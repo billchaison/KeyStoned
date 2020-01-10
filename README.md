@@ -13,7 +13,7 @@ Clicking on any of the menu items reveals your current unauthenticated session I
 
 ![alt text](https://github.com/billchaison/KeyStoned/blob/master/ks2.png)
 
-Using netcat, connect to the Key Systems box on TCP port 1010 and wait for successful administrator access to me logged.  Note the session ID (sid) in the output.
+Using netcat, connect to the Key Systems box on TCP port 1010 and wait for successful administrator access to be logged.  Note the session ID (sid) in the output.  (in this example the sid is 1699452270)
 
 ![alt text](https://github.com/billchaison/KeyStoned/blob/master/ks3.png)
 
